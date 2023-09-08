@@ -28,7 +28,7 @@ pipeline {
 
         stage('Deploy to Staging') {
             steps {
-                 echo "Using tools like AWS CLI to deploy to a staging server"
+                 echo "Using tools like AWS CLI to deploy to  staging server"
                 
             }
         }
